@@ -274,5 +274,11 @@ const dataTulisan = [
     "Kategori": "Hukum Tata Negara & Konstitusi",
     "Sub Kategori": "Lembaga Peradilan & Judicial Review",
     "Link": "https://medium.com/@penulis_bujang/dinamika-pengaturan-ketua-dan-wakil-ketua-mk-881f92bb54a0"
+  },
+  {
+    "Judul": "Perkembangan Islam di Negara Jepang",
+    "Kategori": "Kajian Islam & Agama",
+    "Sub Kategori": "Sejarah & Peradaban",
+    "Link": "https://ibtimes.id/perkembangan-islam-di-negara-jepang/"
   }
 ];
