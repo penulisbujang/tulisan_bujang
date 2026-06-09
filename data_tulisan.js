@@ -289,7 +289,7 @@ const dataTulisan = [
   },
   {
     "Judul": "Pendapat Hukum tentang Peletakan HGU Atas Tanah Ulayat dan Penggusuran Paksa Atasnya",
-    "Kategori": "Hukum Ketenagakerjaan & Agraria"
+    "Kategori": "Hukum Ketenagakerjaan & Agraria",
     "Sub Kategori": "Hukum Agraria",
     "Link": "https://medium.com/@penulis_bujang/pendapat-hukum-tentang-peletakan-hgu-atas-tanah-ulayat-dan-penggusuran-paksa-atasnya-f1d64b39928b"
   }
