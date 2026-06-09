@@ -280,5 +280,17 @@ const dataTulisan = [
     "Kategori": "Kajian Islam & Agama",
     "Sub Kategori": "Sejarah & Peradaban",
     "Link": "https://ibtimes.id/perkembangan-islam-di-negara-jepang/"
+  },
+  {
+    "Judul": "JANGAN PADAMKAN API ITU!",
+    "Kategori": "Opini & Pemikiran Bebas",
+    "Sub Kategori": "Refleksi Personal",
+    "Link": "https://medium.com/@penulis_bujang/jangan-padamkan-api-itu-31500c9533dd"
+  },
+  {
+    "Judul": "Pendapat Hukum tentang Peletakan HGU Atas Tanah Ulayat dan Penggusuran Paksa Atasnya",
+    "Kategori": "Hukum Ketenagakerjaan & Agraria"
+    "Sub Kategori": "Hukum Agraria",
+    "Link": "https://medium.com/@penulis_bujang/pendapat-hukum-tentang-peletakan-hgu-atas-tanah-ulayat-dan-penggusuran-paksa-atasnya-f1d64b39928b"
   }
 ];
