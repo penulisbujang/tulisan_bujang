@@ -292,5 +292,11 @@ const dataTulisan = [
     "Kategori": "Hukum Ketenagakerjaan & Agraria",
     "Sub Kategori": "Hukum Agraria",
     "Link": "https://medium.com/@penulis_bujang/pendapat-hukum-tentang-peletakan-hgu-atas-tanah-ulayat-dan-penggusuran-paksa-atasnya-f1d64b39928b"
+  },
+   {
+    "Judul": "Pembangkangan Konstitusional Pembentuk Undang-Undang",
+    "Kategori": "Hukum Tata Negara & Konstitusi",
+    "Sub Kategori": "Teori Konstitusi & Ketatanegaraan",
+    "Link": "https://pinterhukum.or.id/pembangkangan-konstitusional-pembentuk-undang-undang/"
   }
 ];
