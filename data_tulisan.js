@@ -298,5 +298,11 @@ const dataTulisan = [
     "Kategori": "Hukum Tata Negara & Konstitusi",
     "Sub Kategori": "Teori Konstitusi & Ketatanegaraan",
     "Link": "https://pinterhukum.or.id/pembangkangan-konstitusional-pembentuk-undang-undang/"
+  },
+  {
+    "Judul": "Analisis Yuridis Pencegahan Keimigrasian Pasca Putusan Mahkamah Konstitusi",
+    "Kategori": "Hukum Tata Negara & Konstitusi",
+    "Sub Kategori": "Hukum Keimigrasian",
+    "Link": "https://pinterhukum.or.id/analisis-yuridis-pencegahan-keimigrasian-pasca-putusan-mahkamah-konstitusi/"
   }
 ];
