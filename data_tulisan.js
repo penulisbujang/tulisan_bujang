@@ -300,9 +300,15 @@ const dataTulisan = [
     "Link": "https://pinterhukum.or.id/pembangkangan-konstitusional-pembentuk-undang-undang/"
   },
   {
-    "Judul": "Analisis Yuridis Pencegahan Keimigrasian Pasca Putusan Mahkamah Konstitusi",
+    "Judul": "Pembatasan Hak Prerogatif Presiden Dalam Membentuk Kementerian Dan Lembaga Pemerintahan Non Kementerian",
+    "Kategori": "Hukum Tata Negara & Konstitusi",
+    "Sub Kategori": "Hukum Kelembagaan",
+    "Link": "https://pinterhukum.or.id/analisis-yuridis-pencegahan-keimigrasian-pasca-putusan-mahkamah-konstitusi/"
+  },
+  {
+  "Judul": "Analisis Yuridis Pencegahan Keimigrasian Pasca Putusan Mahkamah Konstitusi",
     "Kategori": "Hukum Tata Negara & Konstitusi",
     "Sub Kategori": "Hukum Keimigrasian",
-    "Link": "https://pinterhukum.or.id/analisis-yuridis-pencegahan-keimigrasian-pasca-putusan-mahkamah-konstitusi/"
-  }
+    "Link": "https://pinterhukum.or.id/pembatasan-hak-prerogatif-presiden-dalam-membentuk-kementerian-dan-lembaga-pemerintahan-non-kementerian/"
+}
 ];
